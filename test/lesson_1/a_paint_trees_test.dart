@@ -1,4 +1,4 @@
-import 'package:dart_application_2/lesson_1/a_paint_trees.dart';
+import 'package:dart_application_2/yandex_5/lesson_1/a_paint_trees.dart';
 import 'package:test/test.dart';
 
 void main() {
